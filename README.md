@@ -20,8 +20,6 @@ Detect bright spherical objects
      ↓
 Estimate their position and size
      ↓
-Remove the background from the Moon image
-     ↓
 Resize the Moon to each detected object
      ↓
 Replace them
